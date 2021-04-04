@@ -1,4 +1,4 @@
-# PinterestDownloader
+# Pinterest Downloader
 This app lets you download videos from pinterest in an easy way.
 
 <b>Tools</b>
